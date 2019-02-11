@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jekyll Update on Hugo Cards</title>
+    <link>./categories/jekyll-update/</link>
+    <description>Recent content in Jekyll Update on Hugo Cards</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./categories/jekyll-update/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post with no image</title>
+      <link>./posts/no-image/index.html</link>
+      <pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>./posts/no-image/index.html</guid>
+      <description>When there is no image mentioned in the front-matter, default image will be displayed. You can change this image to any other one that suits your needs.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non iaculis risus. Phasellus vitae nunc ac lectus finibus porttitor. Sed vel enim vulputate, euismod neque maximus, tincidunt turpis. Aenean accumsan leo eget dui porta pulvinar. Sed tincidunt, nisi non efficitur tempus, enim lectus aliquam arcu, at dignissim ligula ex eu quam.</description>
+    </item>
+    
+    <item>
+      <title>Elements</title>
+      <link>./posts/elements/index.html</link>
+      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>./posts/elements/index.html</guid>
+      <description>Nulla vel ante sit amet leo imperdiet porta. Mauris pellentesque finibus ligula non dignissim. Sed sed vehicula velit. Ut eleifend velit maximus massa lobortis mattis. In dui quam, rutrum eu purus et, mattis consequat ex. Vivamus risus mauris, ultricies vel dolor eget, aliquet tristique est. Suspendisse odio urna, vehicula vel diam at, pulvinar porttitor metus. Sed ac ipsum et magna aliquam mattis in eleifend mi. Pellentesque porttitor diam nec hendrerit efficitur.</description>
+    </item>
+    
+  </channel>
+</rss>
