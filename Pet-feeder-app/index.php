@@ -14,7 +14,7 @@
 
              
             <div class="col-md-4 card">
-             <a href="./public/pages/pet-input-form.html" class="index-anchor">    
+             <a href="./public/pages/pet-input-form.php" class="index-anchor">    
                 <div class="panel panel-default">
                   
                   
@@ -27,7 +27,7 @@
         
              
             <div class="col-md-4 card">
-             <a href="./public/pages/pet-input-form.html" class="index-anchor">    
+             <a href="./public/pages/pet-input-form.php" class="index-anchor">    
                 <div class="panel panel-default">
                   
                   
