@@ -1,5 +1,5 @@
 <?php
-  if(!isset($page_title)) { $page_title = 'Staff Area'; }
+  if(!isset($page_title)) { $page_title = 'The title'; }
 ?>
 
 <!DOCTYPE html>
@@ -15,7 +15,7 @@
 
 
 
-<link rel="stylesheet" href="./public/sass/main.css">
+<link rel="stylesheet" href="../../public/sass/main.css">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
@@ -33,7 +33,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="./index.html">Pet Feeder App</a>
+      <a class="navbar-brand" href="./index.php">Pet Feeder App</a>
     </div>
 
     

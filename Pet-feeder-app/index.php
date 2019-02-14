@@ -50,6 +50,7 @@
 </nav>
 </header>
 
+<!-- TODO: Remove the styling from html here and change colour to the same blue as in the header. -->
 <h3 style="text-align: center"> Choose your Pet</h3>
 
     <div class="container">
