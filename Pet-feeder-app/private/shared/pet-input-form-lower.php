@@ -1,7 +1,7 @@
-    <input id="age" type="number">
+    <input id="age" type="number" min = "0" max = "20" step = "0.1">
     <label for="age">Age (in years)</label><br>
 
-    <input id="weight" type="number">
+    <input id="weight" type="number" min = "0" max = "250">
     <label for="weight">Weight (in lb)</label><br>
 
     <!--
