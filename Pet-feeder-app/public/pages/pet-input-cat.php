@@ -160,7 +160,7 @@
                 <div class="col-md-4 mt20">
                     <div class="post-img">
 
-                        <img width="600" src="../../public/images/gopher.jpg" alt="webjeda">
+                        <img width="600" src="../images/cat.png" alt="webjeda">
 
                     </div>
 
