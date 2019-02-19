@@ -1,5 +1,4 @@
-<div>
-
+<li>
     <label for="cat_breed">Cat breed</label>
     <select id="cat_breed" name="cat_breed">
         <option value="Abyssinian_cat">Abyssinian cat</option>
@@ -72,5 +71,6 @@
         <option value="Turkish_Van">Turkish Van</option>
         <option value="York_Chocolate">York Chocolate</option>
         <option value="Other_cat">Other</option>
-    </select><br>
-</div>
+    </select>
+</li>
+<!--<br>-->

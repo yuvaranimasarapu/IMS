@@ -1,5 +1,4 @@
-<div>
-
+<li>
     <label for="dog_breed">Dog breed</label>
     <select id="dog_breed" name="dog_breed">
         <option value="ENGLISH_POINTER">ENGLISH POINTER</option>
@@ -136,5 +135,6 @@
         <option value="LANCASHIRE_HEELER">LANCASHIRE HEELER</option>
         <option value="SEGUGIO_MAREMMANO">SEGUGIO MAREMMANO</option>
         <option value="OTHER_DOG">OTHER</option>
-    </select><br>
-</div>
+    </select>
+</li>
+<!--<br>-->

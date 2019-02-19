@@ -11,7 +11,11 @@
 
                     <div class="post-content flex-container" itemprop="articleBody">
                         <form action="" method="post">
-                            <input id="petname" type="text">
-                            <label for="petname">Pet name</label><br>
+                            <ul class="flex-outer">
+                                <li>
+                                    <input id="petname" type="text">
+                                    <label for="petname">Pet name</label>
+                                    <!--<br>-->
+                                </li>
 
 
