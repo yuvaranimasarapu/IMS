@@ -58,24 +58,7 @@
 <?php include('./private/shared/header.php'); ?>
 -->
 
-
-
-    <div class="container">
-        <div class="wrapper">
-
-            <div class="row">
-                <div class="col-md-8">
-
-
-                    <header class="post-header">
-                       <!-- <h3 >Please insert pet info</h3>-->
-                         <h1 class="input-title" itemprop="name headline">Please insert pet info</h1> 
-                    </header>
-
-                    <div >
-                        <form action="" method="post">
-                            <input id="petname" type="text">
-                            <label for="petname">Pet name</label><br>
+                            <?php include('../../private/shared/pet-input-form-upper.php'); ?> 
 
                             <?php include('../../private/shared/pet-input-dog-form.php'); ?>
 
