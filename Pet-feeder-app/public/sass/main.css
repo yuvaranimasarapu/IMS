@@ -8312,12 +8312,12 @@ footer {
 .card {
     float: none
 }
-
-.post-title {
-    line-height: 2;
-    text-decoration: underline
+ 
+.input-title {
+    font-size: 2em;
+    color: #333333;
 }
-
+ 
 .index-anchor {
     text-decoration: none;
     color: #111
@@ -8626,14 +8626,19 @@ input[type="radio"] {
 }
 
 select {
-
-    display: block;
+    display: inline-block;
 	margin-bottom: 20px;
     background-size: 1em 1em;
     padding: 8px 1em 8px 8px;
     background-color: #fdedec;
 }
 
+label { 
+    float: left; 
+    width: 10em; 
+    margin-right: 1em;
+    vertical-align: middle; 
+}
 
 input {
     cursor: pointer;

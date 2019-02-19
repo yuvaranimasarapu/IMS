@@ -8,7 +8,7 @@
         <article class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Contact</h1>
+            <h1 class="input-title">Contact</h1>
           </header>
 
           <div class="post-content">

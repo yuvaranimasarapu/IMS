@@ -9,7 +9,7 @@
         <article class="post">
 
           <header class="post-header">
-            <h1 class="post-title">About</h1>
+            <h1 class="input-title">About</h1>
           </header>
 
           <div class="post-content">

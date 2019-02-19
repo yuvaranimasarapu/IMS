@@ -69,7 +69,7 @@
 
                     <header class="post-header">
                        <!-- <h3 >Please insert pet info</h3>-->
-                         <h1 class="post-title" itemprop="name headline">Please insert pet info</h1> 
+                         <h1 class="input-title" itemprop="name headline">Please insert pet info</h1> 
                     </header>
 
                     <div class="post-content" itemprop="articleBody">
@@ -77,7 +77,7 @@
                             <input id="petname" type="text">
                             <label for="petname">Pet name</label><br>
 
-                            <?php include('../../private/shared/pet-input-cat.php'); ?>   
+                            <?php include('../../private/shared/pet-input-cat-form.php'); ?>   
 
                             <?php include('../../private/shared/pet-input-form-lower.php'); ?> 
 

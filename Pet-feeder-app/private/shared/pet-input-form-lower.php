@@ -1,7 +1,7 @@
     <input id="age" type="number" min = "0" max = "20" step = "0.1">
     <label for="age">Age (in years)</label><br>
 
-    <input id="weight" type="number" min = "0" max = "250">
+    <input id="weight" type="number" min = "0" max = "250" step = "0.1">
     <label for="weight">Weight (in lb)</label><br>
 
     <!--
@@ -11,7 +11,7 @@
         <textarea id="other_notes"></textarea>
         <label for="other_notes">Other notes</label><br>
         -->
-    <label for="diet">What type of diet does your pet have?</label>
+    <label for="diet">Diet</label>
     <select name="diet" id="diet">
         <optgroup label="Raw">
             <option value="raw_grain_free">Raw grain free</option>
@@ -34,7 +34,7 @@
 
 
     <div>
-        <label for="activity_level">Pet's level of activity</label>
+        <label for="activity_level">Activity level</label>
         <select id="activity_level" name="activity_level">
             <option value="Active">Active</option>
             <option value="Normal">Normal</option>
@@ -54,7 +54,7 @@
     <br>
 
     <fieldset>
-        <legend>Neutered or not?</legend>
+        <legend>Neutering</legend>
         <input type="radio" name="neutered" value="intact" id="red" checked><label
             for="intact">intact</label><br>
         <input type="radio" name="neutered" value="neutered" id="blue"><label
